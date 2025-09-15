@@ -24,7 +24,7 @@ Monitoring & Observabilité
   <tr>
     <td align="center" width="33%">
       <a href="[https://studio--cloudrunner-n0blu.us-central1.hosted.app/projets/finatops](https://studio--cloudrunner-n0blu.us-central1.hosted.app/projets/finatops)">
-        <img src="[https://studio--cloudrunner-n0blu.us-central1.hosted.app/finatops_logo.png](https://studio--cloudrunner-n0blu.us-central1.hosted.app/finatops_logo.png)"
+        <img src="[[https://studio--cloudrunner-n0blu.us-central1.hosted.app/finatops_logo.png](https://studio--cloudrunner-n0blu.us-central1.hosted.app/finatops_logo.png](https://github.com/madelerose/madelerose/blob/main/finatops_logo.png?raw=true))"
              alt="Projet FinOps FinaTops"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
