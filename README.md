@@ -23,15 +23,16 @@ Monitoring & Observabilité
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="[https://studio--cloudrunner-n0blu.us-central1.hosted.app/projets/finatops](https://studio--cloudrunner-n0blu.us-central1.hosted.app/projets/finatops)">
-        <img src="[[https://studio--cloudrunner-n0blu.us-central1.hosted.app/finatops_logo.png](https://studio--cloudrunner-n0blu.us-central1.hosted.app/finatops_logo.png](https://github.com/madelerose/madelerose/blob/main/finatops_logo.png?raw=true))"
-             alt="Projet FinOps FinaTops"
-             style="width:100%; height:200px; object-fit:cover;"/>
+      <a href="https://studio--cloudrunner-n0blu.us-central1.hosted.app/projets/finatops">
+        
+        <img src="https://github.com/madelerose/madelerose/blob/main/finatops_logo.png?raw=true"
+             style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;"/>
+             
       </a>
       <br/>
       <b>FinaTops</b><br/>
       <sub>Mise en place d'une infrastructure via Terraform, conteneurisation d'une application Python et implémentation d'une pipeline CI/CD avec GitLab CI.</sub><br/>
-      🔗 <a href="[https://studio--cloudrunner-n0blu.us-central1.hosted.app/projets/finatops](https://studio--cloudrunner-n0blu.us-central1.hosted.app/projets/finatops)">Voir le projet</a>
+      🔗 <a href="https://studio--cloudrunner-n0blu.us-central1.hosted.app/projets/finatops">Voir le projet</a>
       <br/>
       <sub>Tags: Django, Docker, K8s, Azure</sub>
     </td>
@@ -39,4 +40,3 @@ Monitoring & Observabilité
 </table>
 
 
----
