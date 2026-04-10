@@ -17,7 +17,7 @@
 
 Je suis **Mathieu**, Admin DevOps Junior passionné par l'automatisation. Fort d'un passif en **Support IT (N1/N2)**, j'ai transitionné vers l'ingénierie système pour bâtir des infrastructures résilientes et scalables. Mon approche est guidée par la culture **CAMS** (Culture, Automation, Measurement, Sharing).
 
-- 🔭 **Expertise actuelle :** Conception de pipelines CI/CD et déploiement d'architectures hybrides.
+- 🔭 **Expertise actuelle :** Conception de pipelines CI/CD (GitLab CI) et déploiement d'architectures hybrides (Terraform, Ansible).
 - 🎯 **Objectifs 2026 :** Certification **RHCSA** (Red Hat) et **Google Cloud ACE**.
 - ⚡ **Philosophie :** Si une tâche est répétée plus de deux fois, elle mérite un script.
 
@@ -84,7 +84,7 @@ Mon environnement de travail est un parc hybride sous **Rocky Linux 10**, orches
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathieu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON_NOM_UTILISATEUR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathieu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieu-adele-rose)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-madelerose-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madelerose)
 
