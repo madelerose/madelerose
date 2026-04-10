@@ -2,7 +2,7 @@
 
 # 👨‍💻 Mathieu — *DevOps Craftsman*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Junior+DevOps+Administrator+%F0%9F%9A%80;Automating+everything%2C+one+pipeline+at+a+time+%E2%9A%99%EF%B8%8F;Future+RHCSA+%26+GCP+ACE+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Junior+DevOps+Administrator+%F0%9F%9A%80;Automating+everything%2C+one+pipeline+at+a+time+%E2%9A%99%EF%B8%8F;Future+RHCSA+%26+GCP+ACE+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/madelerose?label=Follow&style=social)](https://github.com/madelerose)
 [![Profile views](https://komarev.com/ghpvc/?username=madelerose&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/madelerose)
@@ -87,8 +87,8 @@ Je suis **Mathieu**, Admin DevOps Junior en pleine montée en compétences, pass
 
 <div align="center">
 
-[![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=madelerose&repo=NOM_DU_REPO_1&theme=radical&hide_border=true)](https://github.com/madelerose/NOM_DU_REPO_1)
-[![Projet 2](https://github-readme-stats.vercel.app/api/pin/?username=madelerose&repo=NOM_DU_REPO_2&theme=radical&hide_border=true)](https://github.com/madelerose/NOM_DU_REPO_2)
+[![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=madelerose&repo=terraform-gcp-infra&theme=radical&hide_border=true)](https://github.com/madelerose/terraform-gcp-infra)
+[![Projet 2](https://github-readme-stats.vercel.app/api/pin/?username=madelerose&repo=ansible-k8s-setup&theme=radical&hide_border=true)](https://github.com/madelerose/ansible-k8s-setup)
 
 </div>
 
@@ -104,30 +104,7 @@ Je suis **Mathieu**, Admin DevOps Junior en pleine montée en compétences, pass
 
 ```text
 Support IT N1/N2  ──►  Admin DevOps Junior  ──►  Expert Sys Admin + DevOps Culture (CAMS)
-                                                         │
-                                              ┌──────────┴──────────┐
-                                           RHCSA                 GCP ACE
-                                        (Red Hat)             (Google Cloud)
-```
-
----
-
-## 📬 Me Contacter
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathieu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/VOTRE_PROFIL_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:VOTRE_EMAIL@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-madelerose-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madelerose)
-
-</div>
-
----
-
-<div align="center">
-
-*"Automate the boring stuff. Build the exciting stuff."* 🚀
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
+                                                 │
+                                     ┌──────────┴──────────┐
+                                  RHCSA                 GCP ACE
+                               (Red Hat)             (Google Cloud)
