@@ -25,13 +25,13 @@ Je suis **Mathieu**, Admin DevOps Junior passionné par l'automatisation. Fort d
 
 ## 🚀 Projets Phares
 
-### 🏦 [Finatops - Infrastructure DevOps GCP](https://github.com/madelerose/finatops-devops)
+### 🏦 [Finatops - Infrastructure DevOps GCP](https://github.com/madelerose/finatops)
 *Projet central de mon portfolio simulant une infrastructure financière critique.*
 - **Infrastructure as Code :** Provisioning complet sur **GCP** via **Terraform** (Réseau, GKE, Instances).
 - **Orchestration :** Déploiement d'une application Python/Django sur un cluster **Kubernetes**.
 - **Automatisation :** Pipeline **GitLab CI** intégral (Build Docker, Tests, Push Registry, Deploy Helm).
 
-### 🖥️ [Hybrid Cloud Homelab](https://github.com/madelerose/madelerose)
+### 🖥️ [Hybrid Cloud Homelab](https://github.com/madelerose/homelab)
 *Gestion de mon infrastructure personnelle hybride (Local + Cloud).*
 - **OS :** Administration de nœuds sous **Rocky Linux 10**.
 - **Networking :** Maillage **Tailscale Mesh** (Zero Trust) et Reverse Proxy **Traefik v3** avec certificats Let's Encrypt.
@@ -78,6 +78,10 @@ Je suis **Mathieu**, Admin DevOps Junior passionné par l'automatisation. Fort d
 ## 📊 Activity
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madelerose&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madelerose&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=madelerose&theme=radical&hide_border=true&locale=fr" alt="GitHub Streak" />
 </p>
 
@@ -88,7 +92,7 @@ Je suis **Mathieu**, Admin DevOps Junior passionné par l'automatisation. Fort d
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathieu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieu-adele-rose)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mathadrose%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathadrose@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-madelerose-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madelerose)
 
 </div>
