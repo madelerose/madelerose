@@ -23,21 +23,29 @@ Je suis **Mathieu**, Admin DevOps Junior passionné par l'automatisation. Fort d
 
 ---
 
-## 🏗️ Hybrid Cloud Homelab
+## 🚀 Projets Phares
 
-Mon environnement de travail est un parc hybride sous **Rocky Linux 10**, orchestré pour l'apprentissage et l'auto-hébergement de services critiques.
+### 🏦 [Finatops - Infrastructure DevOps GCP](https://github.com/madelerose/finatops-devops)
+*Projet central de mon portfolio simulant une infrastructure financière critique.*
+- **Infrastructure as Code :** Provisioning complet sur **GCP** via **Terraform** (Réseau, GKE, Instances).
+- **Orchestration :** Déploiement d'une application Python/Django sur un cluster **Kubernetes**.
+- **Automatisation :** Pipeline **GitLab CI** intégral (Build Docker, Tests, Push Registry, Deploy Helm).
+
+### 🖥️ [Hybrid Cloud Homelab](https://github.com/madelerose/madelerose)
+*Gestion de mon infrastructure personnelle hybride (Local + Cloud).*
+- **OS :** Administration de nœuds sous **Rocky Linux 10**.
+- **Networking :** Maillage **Tailscale Mesh** (Zero Trust) et Reverse Proxy **Traefik v3** avec certificats Let's Encrypt.
+- **Automation :** Scripts de durcissement (Hardening) et playbooks Ansible pour le maintien en condition opérationnelle.
+
+---
+
+## 🏗️ Architecture Homelab (Hardware)
 
 | Nœud | Rôle | Localisation | Ressources |
 | :--- | :--- | :--- | :--- |
 | **net-svc-01** | Edge Proxy / Bastion | **GCP** (Free Tier) | 2 vCPU, 1 Go RAM, 20 Go SSD |
 | **srv-01** | Compute / NAS | **Homelab** (Local) | Ryzen 5, 8 vCPU, 8 Go RAM, 1 To HDD |
 | **srv-02** | DNS / Backup | **Homelab** (Local) | Intel i5, 4 vCPU, 6 Go RAM, 700 Go HDD |
-
-### 🛠️ Architecture & Sécurité
-- **Networking :** Maillage complet via **Tailscale Mesh**. Communication sécurisée entre GCP et le local sans ouverture de ports.
-- **Reverse Proxy :** **Traefik v3** (GCP) gère le routage vers les services locaux via MagicDNS.
-- **Hardening :** Authentification SSH via clés **ED25519**, durcissement **SELinux** et blindage du démon SSH.
-- **Gestion Système :** Optimisation des laptops en serveurs via la désactivation du *Lid Switch* dans `logind.conf`.
 
 ---
 
@@ -64,20 +72,6 @@ Mon environnement de travail est un parc hybride sous **Rocky Linux 10**, orches
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/>
 </p>
-
----
-
-## 🚀 Projets Phares
-
-<div align="center">
-
-[![Finatops - Infrastructure DevOps](https://github-readme-stats.vercel.app/api/pin/?username=madelerose&repo=finatops-devops&theme=radical&hide_border=true)](https://github.com/madelerose/finatops-devops)
-[![Homelab Configuration](https://github-readme-stats.vercel.app/api/pin/?username=madelerose&repo=madelerose&theme=radical&hide_border=true)](https://github.com/madelerose/madelerose)
-
-</div>
-
-> **Focus : Finatops** 🏦
-> Mise en place d'une infrastructure robuste sur **GCP** : IaC avec **Terraform**, Containerisation **Docker**, Orchestration **Kubernetes (GKE)** et pipeline **GitLab CI**.
 
 ---
 
