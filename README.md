@@ -78,10 +78,6 @@ Je suis **Mathieu**, Admin DevOps Junior passionné par l'automatisation. Fort d
 ## 📊 Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madelerose&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madelerose&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=madelerose&theme=radical&hide_border=true&locale=fr" alt="GitHub Streak" />
 </p>
 
