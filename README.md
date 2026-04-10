@@ -15,12 +15,29 @@
 
 > *"Infrastructure as Code isn't just a practice — it's a mindset."*
 
-Je suis **Mathieu**, Admin DevOps Junior en pleine montée en compétences, passé du Support IT (N1/N2) au monde de l'automatisation et des infrastructures cloud. Mon objectif : devenir **Expert Administrateur Système** en maîtrisant la culture **DevOps (CAMS)** — Culture, Automatisation, Mesure, Partage.
+Je suis **Mathieu**, Admin DevOps Junior passionné par l'automatisation. Fort d'un passif en **Support IT (N1/N2)**, j'ai transitionné vers l'ingénierie système pour bâtir des infrastructures résilientes et scalables. Mon approche est guidée par la culture **CAMS** (Culture, Automation, Measurement, Sharing).
 
-- 🔭 En ce moment : je construis des pipelines CI/CD et automatise des déploiements avec **Terraform** & **Ansible**
-- 🎯 Certifications en cours : **RHCSA (Red Hat)** & **Google Cloud ACE**
-- 🌱 J'apprends : l'orchestration avancée avec **Kubernetes** et l'infra multi-cloud
-- ⚡ Fun fact : Je suis convaincu que tout ce qui peut être scripté *doit* être scripté
+- 🔭 **Expertise actuelle :** Conception de pipelines CI/CD et déploiement d'architectures hybrides.
+- 🎯 **Objectifs 2026 :** Certification **RHCSA** (Red Hat) et **Google Cloud ACE**.
+- ⚡ **Philosophie :** Si une tâche est répétée plus de deux fois, elle mérite un script.
+
+---
+
+## 🏗️ Hybrid Cloud Homelab
+
+Mon environnement de travail est un parc hybride sous **Rocky Linux 10**, orchestré pour l'apprentissage et l'auto-hébergement de services critiques.
+
+| Nœud | Rôle | Localisation | Ressources |
+| :--- | :--- | :--- | :--- |
+| **net-svc-01** | Edge Proxy / Bastion | **GCP** (Free Tier) | 2 vCPU, 1 Go RAM, 20 Go SSD |
+| **srv-01** | Compute / NAS | **Homelab** (Local) | Ryzen 5, 8 vCPU, 8 Go RAM, 1 To HDD |
+| **srv-02** | DNS / Backup | **Homelab** (Local) | Intel i5, 4 vCPU, 6 Go RAM, 700 Go HDD |
+
+### 🛠️ Architecture & Sécurité
+- **Networking :** Maillage complet via **Tailscale Mesh**. Communication sécurisée entre GCP et le local sans ouverture de ports.
+- **Reverse Proxy :** **Traefik v3** (GCP) gère le routage vers les services locaux via MagicDNS.
+- **Hardening :** Authentification SSH via clés **ED25519**, durcissement **SELinux** et blindage du démon SSH.
+- **Gestion Système :** Optimisation des laptops en serveurs (désactivation du *Lid Switch* via `logind.conf`).
 
 ---
 
@@ -28,39 +45,25 @@ Je suis **Mathieu**, Admin DevOps Junior en pleine montée en compétences, pass
 
 ### ☁️ Cloud & Infrastructure
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" title="Microsoft Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" title="Google Cloud Platform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" title="GCP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" title="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45" title="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45" height="45" title="Ansible"/>
 </p>
 
-### 🐳 Containers & Orchestration
+### 🐳 Containers & CI/CD
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" title="Kubernetes"/>
-</p>
-
-### 🔄 CI/CD
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" height="45" title="GitLab CI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git"/>
 </p>
 
 ### 💻 Scripting & OS
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
 </p>
-
----
-
-## 🎓 Certifications
-
-| Badge | Certification | Statut |
-|-------|--------------|--------|
-| ![RHCSA](https://img.shields.io/badge/RHCSA-Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) | Red Hat Certified System Administrator | 🔄 En préparation |
-| ![GCP ACE](https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) | Google Cloud Associate Cloud Engineer | 🔄 En préparation |
 
 ---
 
@@ -71,40 +74,38 @@ Je suis **Mathieu**, Admin DevOps Junior en pleine montée en compétences, pass
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madelerose&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madelerose&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=madelerose&theme=radical&hide_border=true&locale=fr)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🚀 Projets Phares
+## ⚠️ Leçons de "Prod" (Post-Mortem)
 
-> *Mon labo DevOps — l'automatisation au cœur de chaque projet.*
+*L'expérience vient des erreurs que l'on documente.*
 
-<div align="center">
-
-[![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=madelerose&repo=terraform-gcp-infra&theme=radical&hide_border=true)](https://github.com/madelerose/terraform-gcp-infra)
-[![Projet 2](https://github-readme-stats.vercel.app/api/pin/?username=madelerose&repo=ansible-k8s-setup&theme=radical&hide_border=true)](https://github.com/madelerose/ansible-k8s-setup)
-
-</div>
-
-### 🧩 Ce que j'automatise
-- ⚙️ **Déploiements Kubernetes** — manifests, Helm charts, gestion des namespaces
-- 🏗️ **Infrastructure as Code** — provisionnement cloud avec Terraform (Azure / GCP)
-- 🔁 **Pipelines CI/CD** — intégration et déploiement continus via GitLab CI
-- 🤖 **Configuration Management** — playbooks Ansible pour la gestion de serveurs Linux
+- **OOM Management :** Toujours provisionner un **Swap de 2 Go** sur les instances `e2-micro` (GCP) pour éviter les plantages de Traefik lors des challenges ACME.
+- **DNS Abstraction :** Utilisation exclusive de **MagicDNS** (Tailscale) plutôt que des IPs statiques pour garantir la persistance du routage après redémarrage.
+- **Docker Isolation :** Passage en `network_mode: host` pour permettre à Traefik de résoudre les noms du réseau Mesh de l'hôte.
 
 ---
 
-## 🌍 Roadmap DevOps
+## 📬 Me Contacter
 
-```text
-Support IT N1/N2  ──►  Admin DevOps Junior  ──►  Expert Sys Admin + DevOps Culture (CAMS)
-                                                 │
-                                     ┌──────────┴──────────┐
-                                  RHCSA                 GCP ACE
-                               (Red Hat)             (Google Cloud)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathieu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON_NOM_UTILISATEUR)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-madelerose-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madelerose)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Automate the boring stuff. Build the exciting stuff."* 🚀
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
