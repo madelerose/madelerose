@@ -67,6 +67,20 @@ Mon environnement de travail est un parc hybride sous **Rocky Linux 10**, orches
 
 ---
 
+## 🚀 Projets Phares
+
+<div align="center">
+
+[![Finatops - Infrastructure DevOps](https://github-readme-stats.vercel.app/api/pin/?username=madelerose&repo=finatops-devops&theme=radical&hide_border=true)](https://github.com/madelerose/finatops-devops)
+[![Homelab Configuration](https://github-readme-stats.vercel.app/api/pin/?username=madelerose&repo=madelerose&theme=radical&hide_border=true)](https://github.com/madelerose/madelerose)
+
+</div>
+
+> **Focus : Finatops** 🏦
+> Mise en place d'une infrastructure robuste sur **GCP** : IaC avec **Terraform**, Containerisation **Docker**, Orchestration **Kubernetes (GKE)** et pipeline **GitLab CI**.
+
+---
+
 ## 📊 Activity
 
 <p align="center">
