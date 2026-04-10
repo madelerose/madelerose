@@ -37,7 +37,7 @@ Mon environnement de travail est un parc hybride sous **Rocky Linux 10**, orches
 - **Networking :** Maillage complet via **Tailscale Mesh**. Communication sécurisée entre GCP et le local sans ouverture de ports.
 - **Reverse Proxy :** **Traefik v3** (GCP) gère le routage vers les services locaux via MagicDNS.
 - **Hardening :** Authentification SSH via clés **ED25519**, durcissement **SELinux** et blindage du démon SSH.
-- **Gestion Système :** Optimisation des laptops en serveurs (désactivation du *Lid Switch* via `logind.conf`).
+- **Gestion Système :** Optimisation des laptops en serveurs via la désactivation du *Lid Switch* dans `logind.conf`.
 
 ---
 
@@ -77,16 +77,6 @@ Mon environnement de travail est un parc hybride sous **Rocky Linux 10**, orches
 [![GitHub Streak](https://streak-stats.demolab.com?user=madelerose&theme=radical&hide_border=true&locale=fr)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## ⚠️ Leçons de "Prod" (Post-Mortem)
-
-*L'expérience vient des erreurs que l'on documente.*
-
-- **OOM Management :** Toujours provisionner un **Swap de 2 Go** sur les instances `e2-micro` (GCP) pour éviter les plantages de Traefik lors des challenges ACME.
-- **DNS Abstraction :** Utilisation exclusive de **MagicDNS** (Tailscale) plutôt que des IPs statiques pour garantir la persistance du routage après redémarrage.
-- **Docker Isolation :** Passage en `network_mode: host` pour permettre à Traefik de résoudre les noms du réseau Mesh de l'hôte.
 
 ---
 
