@@ -30,31 +30,22 @@ Fort d'une expérience terrain en **Support IT (N1/N2)** — incidents, urgences
 
 ## 🛠️ Stack technique
 
-### ☁️ Cloud & Infrastructure
 <p align="left">
+  <!-- Cloud & Infra -->
   <img src="https://cdn.simpleicons.org/rockylinux/10B981" width="42" height="42" title="Rocky Linux 10"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" height="42" title="Google Cloud Platform"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="42" height="42" title="Terraform"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="42" height="42" title="Ansible"/>
-</p>
-
-### 🐳 Containers & CI/CD
-<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="42" height="42" title="Ansible"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Containers & CI/CD -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" title="Docker"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/traefikproxy/24A1C1" width="42" height="42" title="Traefik v3"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" height="42" title="Kubernetes"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="42" height="42" title="GitLab CI/CD"/>
-</p>
-
-### 🔐 Réseau & Sécurité
-<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="42" height="42" title="GitLab CI/CD"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Réseau & Sécurité -->
   <img src="https://cdn.simpleicons.org/tailscale/000000" width="42" height="42" title="Tailscale"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pihole/96060C" width="42" height="42" title="Pi-hole"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="42" height="42" title="Cloudflare"/>
-</p>
-
-### 💻 Scripting & Dev
-<p align="left">
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="42" height="42" title="Cloudflare"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Scripting & Dev -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" height="42" title="Bash"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" title="Python"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="42" height="42" title="PowerShell"/>&nbsp;&nbsp;
