@@ -111,20 +111,6 @@ Simulation d'infrastructure cloud pour maîtriser CI/CD.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madelerose&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=1D9E75&text_color=444441&bg_color=F1EFE8)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madelerose&layout=compact&theme=default&hide_border=true&title_color=1D9E75&text_color=444441&bg_color=F1EFE8)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=madelerose&theme=default&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&background=F1EFE8&sideLabels=444441&dates=888780)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 📬 Contact
 
 <div align="center">
