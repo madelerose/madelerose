@@ -31,26 +31,35 @@ Fort d'une expérience terrain en **Support IT (N1/N2)** — incidents, urgences
 ## 🛠️ Stack technique
 
 ### ☁️ Cloud & Infrastructure
-![Linux](https://img.shields.io/badge/Rocky_Linux_10-10B981?style=flat-square&logo=rockylinux&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/rockylinux/10B981" width="42" height="42" title="Rocky Linux 10"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" height="42" title="Google Cloud Platform"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="42" height="42" title="Terraform"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="42" height="42" title="Ansible"/>
+</p>
 
 ### 🐳 Containers & CI/CD
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik_v3-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" title="Docker"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/traefikproxy/24A1C1" width="42" height="42" title="Traefik v3"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" height="42" title="Kubernetes"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="42" height="42" title="GitLab CI/CD"/>
+</p>
 
 ### 🔐 Réseau & Sécurité
-![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat-square&logo=tailscale&logoColor=white)
-![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pihole&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/tailscale/000000" width="42" height="42" title="Tailscale"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pihole/96060C" width="42" height="42" title="Pi-hole"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="42" height="42" title="Cloudflare"/>
+</p>
 
 ### 💻 Scripting & Dev
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" height="42" title="Bash"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" title="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="42" height="42" title="PowerShell"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" title="Git"/>
+</p>
 
 ---
 
