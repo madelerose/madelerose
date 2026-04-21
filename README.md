@@ -105,8 +105,7 @@ Simulation d'infrastructure cloud pour maîtriser CI/CD.
 - [x] **Homelab hybride opérationnel** — 3 nœuds Rocky Linux · Traefik · Tailscale · Docker
 - [x] **Documentation Obsidian** — Post-mortems, runbooks, architecture diagrams
 - [ ] **`~` Certification RHCSA** — Préparation intensive en cours
-- [ ] **`~` Google Cloud ACE** — Approfondissement GCP via le homelab
-- [ ] **IaC complète du homelab** — Standardisation Terraform + Ansible
+- [ ] **`~` Google Cloud ACE** — Préparation intensive en cours
 - [ ] **📅 Septembre 2026** — Entrée en Licence Pro Administration Système & DevOps (UTEC)
 
 ---
